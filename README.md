@@ -3,7 +3,7 @@
 
 - It starts with prompting *total players* for the game. Minimum two players and maximum four players are allowed. Then the names of players are recorded.
 - It then asks to select a *level* 
-> **Level 01:** A 4x4 Grid with random card numbers assigned.
+> **Level 01:** A 4x4 Grid with random card numbers assigned.\
 > **Level 02:** A Generic Grid of NxN is made by user-choice where N >= 2 && N <= 7
 - The game starts by showing a *cheat sheet* first for the reference. 
 - Turn starts from *Player 1* and goes on sequentially.
